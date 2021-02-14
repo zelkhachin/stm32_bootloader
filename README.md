@@ -1,4 +1,4 @@
-# stm_bootloader
+# stm32_bootloader
 ## Description 
 a custom bootloader for a STM32F4 microcontroller with the following capabilities: 
 •	In Application Programming (IAP).
